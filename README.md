@@ -16,7 +16,7 @@ ISUCTF 2026 yarışmasında çözülen sorular için yazılmış writeup koleksi
 | 4 | arda_topcu | 37323 |
 | 5 | muhammedeminkarkin | 36823 |
 
-> **Toplam çözülen soru:** 88
+> **Toplam çözülen soru:** 106 Eksik Writeuplar Mevcut
 
 ---
 
