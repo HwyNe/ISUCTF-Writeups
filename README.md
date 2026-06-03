@@ -6,17 +6,18 @@ ISUCTF 2026 yarışmasında çözülen sorular için yazılmış writeup koleksi
 
 ![Skor Tablosu](scoreboard.jpeg)
 
-**🥈 2. sıra — `selman_cuzdan42` — 38223 puan**
+**5. sıra — `muhammedeminkarkin` — 36823 puan**
 
 | Sıra | Oyuncu | Puan |
 |------|--------|------|
 | 🥇 1 | Oguzhan_AKAY | 38573 |
-| 🥈 2 | **selman_cuzdan42** | **38223** |
+| 🥈 2 | selman_cuzdan42 | 38223 |
 | 🥉 3 | Berat_Aytuğ | 37323 |
 | 4 | arda_topcu | 37323 |
-| 5 | muhammedeminkarkin | 36823 |
+| 5 | **muhammedeminkarkin** | **36823** |
 
-> **Toplam çözülen soru:** 106 Eksik Writeuplar Mevcut
+> **Toplam çözülen soru:98**  Eksik Writeuplar Mevcut
+
 
 ---
 
@@ -164,4 +165,4 @@ print(flag.decode())
 
 ## Yazar
 
-**Selman Cüzdan** — [@selmancuzdan42](https://github.com/selmancuzdan42)
+**Muhammed Emin Karkın** — [@hwyne](https://github.com/hwyne)
